@@ -25,8 +25,8 @@ I like to do these front-end challanges to improve my coding skills.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: [https://heathervalene.github.io/front-end_QR_code/](https://heathervalene.github.io/front-end_QR_code/)
 
 
 
